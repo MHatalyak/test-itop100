@@ -36,8 +36,8 @@ The app will be available at http://localhost:3000.
 3. View the converted amount in the target currency.
    
 ## Dependencies
-React
-Styled-components
+- **React**
+- **Styled-components**
 
 ## API Used
 The app uses the MonoBank public API to fetch live exchange rates.
